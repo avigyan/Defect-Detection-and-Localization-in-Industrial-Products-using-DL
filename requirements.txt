@@ -1,0 +1,9 @@
+tensorflow-estimator-1.14.0
+tensorflow-1.14.0
+keras-2.2.4
+opencv-4.2.0
+imutils-0.5.3
+sklearn-0.22.2.post1
+PIL-5.1.0
+matplotlib-3.2.1
+numpy-1.18.2
